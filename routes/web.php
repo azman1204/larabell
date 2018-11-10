@@ -18,3 +18,8 @@ Route::get('/', function () {
 Route::get('about', function() {
    return 'About Page'; 
 });
+
+Route::get('name', function() {
+   return view('niesa'); 
+});
+
