@@ -1,0 +1,55 @@
+Team
+-------
+1. Goret
+2. Nisa
+3. Bella
+
+
+Laravel intermediate / advanced
+----------------------------------------
+1. Git
+  - github
+   - free
+   - public repo
+
+  - gitlab
+    - free private repo 
+    - download and install
+
+  - bitbucket
+
+2. Vuejs
+
+3. Socialite
+
+4. Testing Unit
+
+5. Solr / Elastic
+
+6. Model / Multiple db connection / Tinker
+
+7. Audit Trail
+
+8. chat / web socket
+
+9. Console App
+
+10. Lumen
+
+10. Api
+
+
+GIT
+=====
+www.github.com
+www.git-scm.com
+> git clone https://github.com/azman1204/larabell.git
+> git status
+ - list semua files yg baru atau yg ada update
+> git add *
+ - add semua file ke dlm list utk di trace versioning
+> git reset head <nama file>
+ - undo file yg telah di add
+> git commit -m "....."
+ - start trace versioning
+> git push
