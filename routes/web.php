@@ -18,3 +18,9 @@ Route::get('/', function () {
 Route::get('about', function() {
    return 'About Page'; 
 });
+
+
+Route::get('goret', function() {
+   return view('goret'); 
+});
+
