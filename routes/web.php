@@ -19,7 +19,14 @@ Route::get('about', function() {
    return 'About Page'; 
 });
 
+
 Route::get('name', function() {
    return view('niesa'); 
+
+});
+
+Route::get('goret', function() {
+   return view('goret'); 
+
 });
 

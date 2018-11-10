@@ -1,0 +1,1 @@
+"saya tengah kira pisang saya bah ni"
