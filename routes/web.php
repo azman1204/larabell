@@ -21,6 +21,7 @@ Route::get('about', function() {
 
 Route::get('bell', function() {
   return view('bella');
+});
 
 Route::get('name', function() {
    return view('niesa'); 
