@@ -19,6 +19,13 @@ Route::get('about', function() {
    return 'About Page'; 
 });
 
+
 Route::get('bell', function() {
   return view('bella');
 });
+
+Route::get('goret', function() {
+   return view('goret'); 
+});
+
+
